@@ -10,7 +10,7 @@
         },
         {
           "key": "Content-Security-Policy",
-          "value": "frame-ancestors 'self' https://pokepathgame.org"
+          "value": "frame-ancestors 'self' https://pokepathgame.org https://pokepathtd.com"
         }
       ]
     },
@@ -25,5 +25,3 @@
     }
   ]
 }
-
-
