@@ -1,0 +1,12 @@
+{
+  "name": "pokePathTD_Electron",
+  "version": "1.0.0",
+  "description": "PokePath TD",
+  "homepage": "https://github.com/Khydra/PokePath-TD",
+  "main": "main.js",
+  "author": {
+    "name": "Khydra",
+    "email": "khydra98dev@gmail.com"
+  },
+  "license": "ISC"
+}
